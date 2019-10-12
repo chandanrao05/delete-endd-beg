@@ -48,3 +48,4 @@ int deleteend()
    }
    count--;
    return 0;
+   1
